@@ -3,7 +3,7 @@ name: swiftui-expert
 description: Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS — state, @Observable, view composition, performance, Liquid Glass, SDK 27, and Instruments trace analysis. Also use for iPhone Duo / foldable / large-display work, NavigationSplitView, ArrangementView, ReservedRegion, hinge effects, vertical bars, and the Xcode trace-driven improvement loop. Authored by Antoine van der Lee + Omar Elsayed; mirrored from AvdLee/SwiftUI-Agent-Skill on install.
 trust: platform-product-manager
 reviewed: true
-source: imported/SwiftUI-Agent-Skill/skills/swiftui-expert-skill (mirror of https://github.com/AvdLee/SwiftUI-Agent-Skill @ 204dba7)
+source: shared/swiftui-expert-skill (mirror of https://github.com/AvdLee/SwiftUI-Agent-Skill @ 204dba7)
 metadata:
   hermes:
     tags: [swiftui, ios, apple, avdlee, swiftlee, iphone-duo, performance, xctrace, instruments, foldable]
